@@ -179,27 +179,6 @@ padding: 3px 10px 0 20px;
 text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
 }
 
-.author a[href="/u1917"] span strong {
--webkit-background-clip: text !important;
--webkit-text-fill-color: transparent !important;
-background: url(https://i.imgur.com/uxVgcDq.gif);
-    background-position-x: 0%;
-    background-position-y: 0%;
-    background-size: auto;
-    background-clip: border-box;
-background-clip: border-box;
-background-position-x: 430px;
-background-position-y: 400px;
-background-size: 700px;
-display: inline-block;
-font-family: cinzel decorative;
-font-size: 25px;
-height: 50px;
-letter-spacing: 8px;
-padding: 3px 10px 0 20px;
-text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
-}
-
 .author a[href="/u4485"] span strong {
 -webkit-background-clip: text !important;
 -webkit-text-fill-color: transparent !important;
