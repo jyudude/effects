@@ -1,0 +1,729 @@
+/* USERNAME SHADOWS */
+
+a[href="/u1"], a[href="/u1"] span, a[href="/u1"] span strong { 
+            text-decoration: none !important;
+            color: #000 !important;
+        }
+
+ a[href="/u2"], a[href="/u2"] span, a[href="/u2"] span strong { 
+            text-decoration: none !important;
+            color: #FFCCFF !important;
+        }
+
+ a[href="/u26623"], a[href="/u26623"] span, a[href="/u26623"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px #7D7D7D;
+        }
+
+        a[href="/u25795"], a[href="/u25795"] span, a[href="/u25795"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 6px #6834C9;
+        }
+
+        a[href="/u25787"], a[href="/u25787"] span, a[href="/u25787"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(50, 160, 250);
+        }
+
+
+        a[href="/u4485"], a[href="/u4485"] span, a[href="/u4485"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0 5px rgb(150, 3, 3);
+        }
+
+    a[href="/u26598"], a[href="/u26598"] span, a[href="/u26598"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0 5px #f0b295;
+        }
+
+
+        a[href="/u25940"], a[href="/u25940"] span, a[href="/u25940"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0 5px #6834C9;
+        }
+
+ a[href="/u23811"], a[href="/u23811"] span, a[href="/u23811"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(125, 125, 125);
+        }
+
+a[href="/u11468"], a[href="/u11468"] span, a[href="/u11468"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(50, 160, 250);
+        }
+
+a[href="/u25538"], a[href="/u25538"] span, a[href="/u25538"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(50, 160, 250);
+        }
+
+a[href="/u25664"], a[href="/u25664"] span, a[href="/u25664"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(255, 149, 0);
+        }
+
+a[href="/u24593"], a[href="/u24593"] span, a[href="/u24593"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(125,125,125);
+        }
+
+a[href="/u24593"], a[href="/u24593"] span, a[href="/u24593"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px rgb(125,125,125);
+        }
+
+a[href="/u25746"], a[href="/u25746"] span, a[href="/u25746"] span strong { 
+            text-decoration: none !important;
+text-shadow: 2px 0px 5px #7D7D7D;;
+        }
+
+/* USERNAME SHADOWS END */
+
+/* USERNAME EFFECTS */
+
+.author a[href="/u1"] span strong {
+    -webkit-text-fill-color: transparent !important;
+    background: url(https://images.fanart.tv/fanart/devilman-crybaby-5a4889ae7b7c0.png);
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: repeat;
+        background-size: auto;
+    background-clip: border-box;
+    background-position-x: 0px;
+    background-position-y: 50px !important;
+    background-size: 150px;
+    display: inline-block;
+    height: 100px;
+    background-repeat: repeat-y;
+    width: 150px;
+}
+
+.author a[href="/u26494"] span strong  {
+    -webkit-text-fill-color: transparent !important;
+    background: url(https://i.imgur.com/nmWVHSU.png);
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-repeat: repeat;
+        background-size: auto;
+        background-clip: border-box;
+    background-clip: border-box;
+    background-position-x: 30px;
+    background-position-y: 50px;
+    background-repeat: repeat-y;
+    background-size: 120px;
+    display: inline-block;
+    height: 50px;
+  width: 170px;}
+
+.author a[href="/u24592"] span strong {
+text-shadow: 3px 0px 1px rgba(0,0,0,1);
+  font-size: 16px;
+  letter-spacing: 10px;
+  font-family: cinzel decorative;
+}
+
+.author a[href="/u25787"] span strong {
+text-shadow: 3px 0px 1px rgba(0,0,0,1);
+  font-size: 22px;
+  letter-spacing: 10px;
+  margin-right: -5px;
+  font-family: 'Yellowtail', cursive;
+}
+
+.author a[href="/u25746"] span strong {
+display: inline-block;
+font-family: 'Croissant One', cursive;
+font-size: 22px;
+letter-spacing: 1px;
+padding: 10px 0 0 10px;
+text-shadow: 2px 2px 5px #160324;
+font-weight: 500;
+}
+
+.author a[href="/u25940"] span strong {
+display: inline-block;
+font-family: 'Satisfy', cursive;
+font-size: 23px;
+font-weight: 500;
+letter-spacing: 1px;
+padding: 5px 0 0 5px;
+text-shadow: 1px 1px 5px #0f0f0f;
+}
+
+.author a[href="/u25538"] span strong {
+text-shadow: 3px 0px 1px rgba(0,0,0,1);
+  font-size: 16px;
+  letter-spacing: 10px;
+  font-family: over the rainbow;
+  margin-right: -14px
+}
+
+.author a[href="/u4485"] span strong {
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://i.imgur.com/uxVgcDq.gif);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: 430px;
+background-position-y: 400px;
+background-size: 700px;
+display: inline-block;
+font-family: cinzel decorative;
+font-size: 25px;
+height: 50px;
+letter-spacing: 8px;
+padding: 3px 10px 0 20px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.author a[href="/u4485"] span strong {
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://i.imgur.com/uxVgcDq.gif);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: 430px;
+background-position-y: 400px;
+background-size: 700px;
+display: inline-block;
+font-family: cinzel decorative;
+font-size: 25px;
+height: 50px;
+letter-spacing: 8px;
+padding: 3px 10px 0 20px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.author a[href="/u26660"] span strong {
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://i.imgur.com/uxVgcDq.gif);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: 430px;
+background-position-y: 400px;
+background-size: 700px;
+display: inline-block;
+font-family: cinzel decorative;
+font-size: 25px;
+height: 50px;
+letter-spacing: 8px;
+padding: 3px 10px 0 20px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.author a[href="/u26470"] span strong {
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://animesher.com/orig/0/88/885/8851/animesher.com_ayaka-kagari-witch-craft-works-girl-885141.gif);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: 100px;
+background-position-y: 80px;
+background-size: 300px;
+display: inline-block;
+font-family: cinzel decorative;
+font-size: 20px;
+height: 50px;
+letter-spacing: 8px;
+padding: 3px 10px 0 22px;
+text-transform: uppercase;
+}
+
+.author a[href="/u25760"] span strong {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background: url(https://imgur.com/9raJMfT.gif);
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto;
+        background-clip: border-box;
+    background-clip: border-box;
+background-position-x: 710px;
+background-position-y: 500px;
+background-size: 500px;
+    display: inline-block;
+    font-family: cinzel decorative;
+    font-size: 25px;
+    height: 50px;
+    letter-spacing: 8px;
+    padding: 3px 10px 0 20px;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.author a[href="/u10756"] span strong {
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://i.imgur.com/T3suC2u.gif);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: 200px;
+background-position-y: 80px;
+background-size: 250px;
+display: inline-block;
+font-family: cinzel decorative;
+font-size: 22px;
+height: 50px;
+letter-spacing: 5px;
+padding: 2px 15px 0 17px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.author a[href="/u8899"] span strong {
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://i.imgur.com/jkIVebq.gif);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: -241px;
+background-position-y: 77px;
+background-size: 250px;
+display: inline-block;
+font-family: cinzel decorative;
+font-size: 22px;
+height: 50px;
+letter-spacing: 5px;
+padding: 2px 15px 0 17px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.author a[href="/u24774"] span strong {
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://64.media.tumblr.com/46012c02253972ff4f2478a40a95eb6e/tumblr_owdogv7YeE1vc76nvo1_400.gifv);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: 240px;
+background-position-y: 200px;
+background-size: 400px;
+display: inline-block;
+font-family: Newsreader;
+font-size: 30px;
+letter-spacing: 8px;
+padding: 6px 10px 0 20px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+text-transform: uppercase;
+}
+
+.author a[href="/u24283"] span strong {
+text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+font-family: cinzel decorative;
+font-size: 34px;
+letter-spacing: 12px;
+padding: 12px 10px 0px 28px;
+display: inline-block;
+background: url('https://68.media.tumblr.com/7a2f6ac29d79f8400f9dde4e0911e796/tumblr_ncktr1b23V1qa94xto1_500.gif');
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-clip: border-box;
+background-position-y: 300px;
+background-position-x: 100px;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+height: 50px;
+background-size: 300px;
+}
+
+.author a[href="/u24592"] span strong {
+text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+font-family: cinzel decorative;
+font-size: 24px;
+letter-spacing: 12px;
+padding: 7px 10px 0px 20px;
+display: inline-block;
+background: url('https://imgur.com/2VsjpGy.gif');
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-clip: border-box;
+background-position-y: 300px;
+background-position-x: 100px;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+height: 50px;
+background-size: 350px;
+}
+
+.author a[href="/u2495"] span strong {
+    background: url('https://i.imgur.com/sqj4BmC.gif');
+    background-clip: border-box;
+    background-position-x: 150px;
+    background-position-y: 50px;
+    background-size: 370px;
+    color: #FFF;
+    display: inline-block;
+    font-family: 'Eagle Lake';
+    font-size: 32px;
+    height: 100px;
+    letter-spacing: 6px;
+    padding: 10px 10px 0 20px;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    text-transform: uppercase;
+    -webkit-background-clip: text!important;
+    -webkit-text-fill-color: transparent!important;
+    }
+
+.author a[href="/u4332"] span strong {
+text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+font-family: cinzel decorative;
+font-size: 28px;
+letter-spacing: 20px;
+padding: 5px 0px 0 19px;
+display: inline-block;
+background: url('https://media.tenor.com/images/135d2f7f279c5ee2c081f4f728af6d0e/tenor.gif');
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-clip: border-box;
+background-position-x: 250px;
+background-position-y: 250px;
+background-size: 400px;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+height: 50px;
+}
+
+.author a[href="/u26231"] span strong {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background: url(http://pa1.narvii.com/6068/b103eafa52920c4937528ec3500fa02352523d64_00.gif);
+    background-clip: border-box;
+    background-position-x: 200px;
+    background-position-y: 300px;
+    background-size: 200px;
+    display: inline-block;
+    font-family: Newsreader, serif;
+    font-size: 30px;
+    font-weight: 500;
+    height: 50px;
+    letter-spacing: 10px;
+    padding: 8px 0 0 15px;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    text-transform: uppercase;
+}
+
+.author a[href="/u26121"] span strong {
+  -webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+background: url(https://i.pinimg.com/originals/1d/57/08/1d5708b61f38acef197ade71ae3dac73.gif);
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-position-x: 100px;
+background-position-y: 150px;
+background-size: 500px;
+display: inline-block;
+font-family: Newsreader, serif;
+font-size: 20px;
+font-weight: 500;
+height: 50px;
+letter-spacing: 3px;
+padding: 8px 0 0 15px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+text-transform: uppercase;
+}
+
+.author a[href="/u25286"] span strong {
+text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+font-family: cinzel decorative;
+font-size: 18px;
+letter-spacing: 12px;
+display: inline-block;
+background: url('https://imgur.com/p7edMBM.gif');
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-clip: border-box;
+background-position-y: 100px;
+background-position-x: 200px;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+height: 50px;
+background-size: 500px;
+}
+
+.author a[href="/u24755"] span strong {
+text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+font-family: cinzel decorative;
+font-size: 18px;
+letter-spacing: 12px;
+padding: 5px 10px 0px 17px;
+display: inline-block;
+background: url('https://steamuserimages-a.akamaihd.net/ugc/872996817413595716/2BE850E0C74D8DB1E3C753F827BBF5D0AEB5441A/');
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-clip: border-box;
+background-position-y: 300px;
+background-position-x: 100px;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+height: 50px;
+background-size: 300px;
+}
+
+.author a[href="/u4311"] span strong {
+text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+font-family: cinzel decorative;
+font-size: 30px;
+letter-spacing: 12px;
+padding: 15px 2px 0px 17px;
+display: inline-block;
+background: url('https://imgur.com/VHHh45k.gif');
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+    background-clip: border-box;
+background-position-x: 0%;
+background-position-y: 0%;
+background-clip: border-box;
+background-position-y: 300px;
+background-position-x: 100px;
+-webkit-background-clip: text !important;
+-webkit-text-fill-color: transparent !important;
+height: 50px;
+background-size: 300px;
+}
+
+.author a[href="/u5725"] span strong {
+  background: url(https://static.wixstatic.com/media/745e4d_2653f2be2b4d4d23a672586572e4ed99~mv2.gif);
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-size: 180px;
+display: inline-block;
+font-family: fascinate;
+font-size: 24px;
+font-weight: 300;
+height: 50px;
+letter-spacing: 16px;
+margin-left: 8px;
+padding: 5px 0 0 14px;
+text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+text-transform: uppercase;
+color: #fff;
+}
+
+.author a[href="/u4898"] span strong {
+background: url(https://img1.picmix.com/output/stamp/thumb/5/0/2/7/1897205_fef52.gif);
+    background-size: auto;
+    background-clip: border-box;
+background-clip: border-box;
+background-size: 180px;
+display: inline-block;
+font-family: Libre Baskerville;
+font-size: 17px;
+font-weight: lighter;
+height: 50px;
+letter-spacing: 10px;
+margin-left: 8px;
+padding: 0px 0 0 5px;
+text-shadow: 1px 1px 1px rgba(0,0,0,0.8);
+text-transform: uppercase;
+color: #fff;
+}
+
+/* USERNAME EFFECTS END */ 
+
+/* USERNAME FONTS */
+
+.author a[href="/u23811"] span strong {
+text-shadow: 3px 0px 1px rgba(0,0,0,1);
+  font-size: 16px;
+  letter-spacing: 10px;
+font-family: 'Berkshire Swash', cursive;
+  padding-left: 10px;
+  color: #617b4e;
+}
+
+.author a[href="/u25951"] span strong {
+text-shadow: 3px 0px 1px rgba(0,0,0,1);
+  font-size: 16px;
+  letter-spacing: 10px;
+font-family: 'Berkshire Swash', cursive;
+  padding-left: 10px;
+}
+
+.author a[href="/u25949"] span strong {
+color: #809052;
+font-family: 'Berkshire Swash', cursive;
+font-size: 22px;
+letter-spacing: 3px;
+padding: 3px 0px 0px 10px;
+-webkit-background-clip: text !important;
+display: inline-block;
+  text-shadow: 3px 3px 0px #000, 3px 4px 0px #fff;
+}
+
+.author a[href="/u25803"] span strong {
+font-family: 'Berkshire Swash', cursive;
+font-size: 22px;
+letter-spacing: 10px;
+padding: 3px 0px 0px 10px;
+-webkit-background-clip: text !important;
+display: inline-block;
+text-shadow: 3px 3px 0 #000, 3px 4px 0 #000;
+}
+
+.author a[href="/u25150"] span strong {
+  letter-spacing: 2px;
+    font-family: 'Leckerli One', cursive;
+  font-size: 18px;
+  color: #fff;
+  text-shadow: 3px 0px 1px rgba(0,0,0,1);
+}
+
+.author a[href="/u26598"] span strong {
+  letter-spacing: 1px;
+    font-family: 'Yuji Boku', serif;
+padding: 0 0px 0px 10px;
+  color: #fff;
+  text-shadow: 3px 0px 1px rgba(0,0,0,1);
+}
+
+.author a[href="/u25654"] span strong {
+  letter-spacing: 2px;
+    font-family: 'Leckerli One', cursive;
+  font-size: 18px;
+  text-shadow: 3px 0px 1px rgba(0,0,0,1);
+}
+
+.author a[href="/u25654"] span strong {
+-webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background: url(https://www.dailydot.com/wp-content/uploads/2019/03/captain-marvel-core-blast-2.gif);
+        background-position-x: 0%;
+        background-position-y: 0%;
+        background-size: auto;
+        background-clip: border-box;
+    background-clip: border-box;
+    background-position-x: 300px;
+    background-position-y: 150px;
+    background-size: 450px;
+    display: inline-block;
+    font-family: Cinzel Decorative;
+    font-size: 18px;
+    height: 50px;
+    letter-spacing: 12px;
+    padding: 5px 10px 0 17px;
+    text-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.author a[href="/u25150"]{ 
+  display: inline-block;
+  border-radius: 2px;
+  background: url("http://www.joellessacredgrove.com/Holidays/animmoonphases.gif") no-repeat;
+  background-position: 40px center;
+  padding: 18px 16px 10px 20px;
+width: 150px;
+background-position-y: 20%;
+}
+
+.author a[href="/u11468"] span strong {
+  letter-spacing: 2px;
+    font-family: 'Leckerli One', cursive;
+  font-size: 18px;
+  text-shadow: 3px 0px 1px rgba(0,0,0,1);
+}
+
+.author a[href="/u1046"] span strong {
+text-shadow: 3px 0px 1px rgba(0,0,0,1);
+  letter-spacing: 2px;
+    font-family: 'Eagle Lake', cursive;
+  font-size: 18px !important;
+}
+
+.author a[href="/u8899"] span strong {
+text-shadow: 3px 0px 1px rgba(0,0,0,0.5);
+  letter-spacing: 8px;
+  font-family: 'Cinzel Decorative';
+  font-size: 22px;
+  line-height: 18px;
+}
+
+/* USERNAME FONTS END */
+
+/* GM ICON */
+
+        p a[href="/u11468"], .forabg a[href="/u11468"],  .forumbg a[href="/u11468"], .page-bottom a[href="/u11468"], .module a[href="/u11468"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+ p a[href="/u25623"], .forabg a[href="/u25623"],  .forumbg a[href="/u25623"], .page-bottom a[href="/u25623"], .module a[href="/u25623"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+ p a[href="/u26479"], .forabg a[href="/u26479"],  .forumbg a[href="/u26479"], .page-bottom a[href="/u26479"], .module a[href="/u26479"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+ p a[href="/u26479"], .forabg a[href="/u26479"],  .forumbg a[href="/u26479"], .page-bottom a[href="/u26479"], .module a[href="/u26479"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+ p a[href="/u1046"], .forabg a[href="/u1046"],  .forumbg a[href="/u1046"], .page-bottom a[href="/u1046"], .module a[href="/u1046"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+ p a[href="/u4712"], .forabg a[href="/u4712"],  .forumbg a[href="/u4712"], .page-bottom a[href="/u4712"], .module a[href="/u4712"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+ p a[href="/u26815"], .forabg a[href="/u26815"],  .forumbg a[href="/u26815"], .page-bottom a[href="/u26815"], .module a[href="/u26815"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
+/* GM ICON END */
