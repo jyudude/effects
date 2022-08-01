@@ -714,6 +714,12 @@ text-shadow: 3px 0px 1px rgba(0,0,0,0.5);
                 padding-top: 0px;
             }
 
+ p a[href="/u25795"], .forabg a[href="/u25795"],  .forumbg a[href="/u25795"], .page-bottom a[href="/u25795"], .module a[href="/u25795"] {
+                background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
+                padding-left: 15px;
+                padding-top: 0px;
+            }
+
  p a[href="/u26815"], .forabg a[href="/u26815"],  .forumbg a[href="/u26815"], .page-bottom a[href="/u26815"], .module a[href="/u26815"] {
                 background: url("https://i.imgur.com/mp6VOQa.png") no-repeat;
                 padding-left: 15px;
